@@ -1,1 +1,1 @@
-# prepoznavanje_emocija
+Kodovi za prepoznavanje osnovnih emocija korištenjem duboke konvolucijske neuronske mreže.
